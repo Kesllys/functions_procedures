@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/26 19:14:06.000.673,=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/30 19:27:29.961,=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/30 19:30:21.021,C:\Users\edriano.campana\Desktop\functions_procedures\untFunctoinsProcedures.pas=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/30 19:30:21.021,C:\Users\edriano.campana\Desktop\functions_procedures\untFunctoinsProcedures.dfm=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/30 19:30:37.858,C:\Users\edriano.campana\Desktop\functions_procedures\prjFunctionProcedure.dproj=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
